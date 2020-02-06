@@ -1,0 +1,6 @@
+[submodule "social-spa-api"]
+	path = social-spa-api
+	url = https://github.com/WalissonRodrigo/social-spa-api.git
+[submodule "social-spa-web"]
+	path = social-spa-web
+	url = https://github.com/WalissonRodrigo/social-spa-web.git
